@@ -2,6 +2,10 @@
 
 A real-time computer vision project using YOLOv8 and OpenCV to detect, track, and analyze vehicle proximity in video streams.
 
+
+https://github.com/user-attachments/assets/d36166d4-39a0-4612-9e23-f83cb48fc72b
+
+
 ## Features
 
 * Real-time vehicle detection using YOLOv8
