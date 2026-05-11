@@ -79,6 +79,3 @@ Position: (210, 180, 450, 420)
 - **YOLOv8 Nano** — object detection + tracking with persistent IDs
 - **OpenCV** — video reading, bounding box rendering, real-time display
 
-## License
-
-MIT
