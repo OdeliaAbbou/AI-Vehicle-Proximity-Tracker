@@ -64,16 +64,6 @@ Frame: 126
 Max Area: 52300
 ```
 
-## Project Structure
-
-```text
-project/
-│
-├── main.py
-├── video.mp4
-├── yolov8n.pt
-└── README.md
-```
 
 ## Concepts Demonstrated
 
